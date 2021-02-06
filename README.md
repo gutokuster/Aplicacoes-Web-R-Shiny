@@ -1,10 +1,11 @@
 
+
 # Bootcamp Cientista de Dados: 10 aplicações Web Completas
 **Jan/21**
 
 
 #### Aplicações
-1.  Prevendo quais serão os custos para abrir uma franquia  **★☆☆☆☆**
+1.  [Prevendo quais serão os custos para abrir uma franquia](https://github.com/gutokuster/Aplicacoes-Web-R-Shiny/tree/main/Aplicacoes/01-prevendo-os-custos-para-abrir-uma-franquia)  **★☆☆☆☆**
 2.  Criando um mentor de Carreira em Ciência de Dados usando Inteligência Artificial  **★★★★☆**
 3.  Classificação da qualidade de veículos de acordo com suas características  **★★★★☆**
 4.  Estimando a produção futura de um fazenda leiteira  **★★★★☆**
@@ -17,5 +18,3 @@
 
 
 :mortar_board: Curso Profº Fernando Amaral
-
-
