@@ -1,5 +1,5 @@
 
-# # Bootcamp Cientista de Dados: 10 aplicações Web Completas
+# Bootcamp Cientista de Dados: 10 aplicações Web Completas
 **Jan/21**
 
 
